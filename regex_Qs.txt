@@ -1,0 +1,6 @@
+#!/bin/bash
+kiran , 20,3004csit
+saalla , 21,cse
+Hasmin , 24,genAi
+Jarish ,29,een
+
